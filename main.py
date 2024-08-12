@@ -54,14 +54,14 @@ obtainSIDmsg = f"""
 🆘 <b>How to obtain sessionid?</b>
 
 <b>PC (Chrome):</b>
-- Install https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg">EditThisCookie</a>
+- Install <a href="https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg">EditThisCookie</a>
 - Open and log in to <a href="https://tiktok.com">TikTok</a>
 - Click on EditThisCookie icon
 - Lookup for <b>.tiktok.com | sessionid</b> and copy it
 
 <b>Android:</b>
 - Install Kiwi Browser from <a href="https://github.com/kiwibrowser/src.next/releases">Github</a> or <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser">Play Store</a>
-- Install https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg">EditThisCookie</a>
+- Install <a href="https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg">EditThisCookie</a>
 - Open and log in to <a href="https://tiktok.com">TikTok</a>
 - Click on three dots and scroll until you find EditThisCookie icon, click on it
 - Lookup for <b>.tiktok.com | sessionid</b> and copy it
