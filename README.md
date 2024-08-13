@@ -1,4 +1,5 @@
 # [PATCHED] TikTokUserChanger - Telegam bot made on Pyrogram library
+## It's already patched by TikTok, when you try to change your username, it returns "Slow down, you are editing too fast."
 ### Open to contributions!
 Change your TikTok username to anything you want! Russian username, username with emojis, etc.
 
