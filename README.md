@@ -1,4 +1,4 @@
-# TikTokUserChanger - Telegam bot made on Pyrogram library
+# [PATCHED] TikTokUserChanger - Telegam bot made on Pyrogram library
 ### Open to contributions!
 Change your TikTok username to anything you want! Russian username, username with emojis, etc.
 
